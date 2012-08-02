@@ -1,4 +1,4 @@
-Simple GeoTracking programm with write of changing feo position in simple db.
+Simple FileList programm with read of file list from folder (ru.nekit.Filelist) located on sd card.
 <table>
   <thead><tr>
     <th>Screenshots</th>
